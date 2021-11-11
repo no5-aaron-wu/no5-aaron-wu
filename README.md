@@ -6,6 +6,7 @@
 - :star: [MNN](https://github.com/no5-aaron-wu/MNN) - (public)
 ---
 - :underage: [no5-aaron-wu.github.io](https://no5-aaron-wu.github.io/)
+- :underage: [hexo-blog-service](https://github.com/no5-aaron-wu/hexo-blog-service)
 ---
 <!---
 no5-aaron-wu/no5-aaron-wu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
